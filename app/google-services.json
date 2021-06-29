@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911059122412",
+    "project_id": "camerafirebase-9a805",
+    "storage_bucket": "camerafirebase-9a805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911059122412:android:9ebc5e62f49232bc6d8dc9",
+        "android_client_info": {
+          "package_name": "com.jason.cameraxandfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911059122412-f2ntl0amkaqqgpt6okik385ficgjj4tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlHfkYbz-4kIEEdA7BAJ8HP_9zQ2lNspQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911059122412-f2ntl0amkaqqgpt6okik385ficgjj4tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

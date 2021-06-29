@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cameraxandfirebase</string>
+    <string name="profile">Data Diri</string>
+    <string name="firstname">Nama Depan</string>
+    <string name="lastname">Nama Belakang</string>
+    <string name="age">Umur</string>
+    <string name="address">Alamat</string>
+    <string name="job">Pekerjaan</string>
+    <string name="camera">Buka Kamera</string>
+    <string name="send">Kirim</string>
+</resources>
